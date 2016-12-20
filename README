@@ -1,0 +1,7 @@
+Data cleaning and analysis of the stack exchange dataset from kaggle.
+
+The input files are too big to be included in the repository. They can
+be found at : https://inclass.kaggle.com/c/pycon-2015-tutorial
+
+This submission achieves a log-loss of 0.52728 (position #6 on the
+problem leaderboard).
